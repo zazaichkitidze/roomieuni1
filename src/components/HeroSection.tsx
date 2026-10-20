@@ -77,7 +77,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
         {/* Hero Visual: Architectural Photography Style Image */}
         <div className="mt-10 sm:mt-14 relative max-w-5xl mx-auto rounded-2xl overflow-hidden border border-slate-200/90 shadow-2xl shadow-slate-200/50 bg-slate-100 aspect-16/9">
           <img
-            src="/src/assets/images/hero_apartment_1792524936695.jpg"
+            src="hero_apartment_1792524936695.jpg"
             alt="სტუდენტური ბინა თბილისში"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-center transform hover:scale-101 transition-transform duration-700"
