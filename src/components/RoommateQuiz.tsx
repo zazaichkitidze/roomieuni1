@@ -126,7 +126,7 @@ export const RoommateQuiz: React.FC<RoommateQuizProps> = ({
             <div>
               <div className="relative rounded-xl overflow-hidden mb-6 aspect-4/3 bg-white border border-slate-200/80">
                 <img
-                  src="/src/assets/images/quiz_roommates_1792524936828.jpg"
+                  src="/quiz_roommates_1792524936828.jpg"
                   alt="Roommate Quiz Illustration"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
