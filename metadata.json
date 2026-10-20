@@ -1,0 +1,6 @@
+{
+  "name": "RoomieUni - სტუდენტური თანამცხოვრებლებისა და ბინების პლატფორმა",
+  "description": "იპოვე შენი იდეალური თანამცხოვრებელი და ბინა უნივერსიტეტთან ახლოს. თბილისის სტუდენტური roommate matching და ბინების ძიების პლატფორმა.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
