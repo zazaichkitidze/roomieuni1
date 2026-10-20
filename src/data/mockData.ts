@@ -5,7 +5,7 @@ export const CURRENT_USER = {
   age: 21,
   university: 'BTU (ბიზნესისა და ტექნოლოგიების უნივერსიტეტი)',
   faculty: 'ინფორმაციული ტექნოლოგიები და პროგრამირება',
-  avatar: '/src/assets/images/student_avatar_1792524938900.jpg',
+  avatar: '/student_avatar_1792524938900.jpg',
   budget: 700,
   preferredDistricts: ['ვაკე', 'საბურთალო'],
   cleanliness: 'ძალიან მაღალი' as const,
