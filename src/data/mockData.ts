@@ -170,7 +170,7 @@ export const INITIAL_APARTMENTS: Apartment[] = [
     bedrooms: 2,
     bathrooms: 1,
     area: 75,
-    image: '/src/assets/images/apartment_saburtalo_1792524937960.jpg',
+    image: '/apartment_saburtalo_1792524937960.jpg',
     gallery: [
       '/src/assets/images/apartment_saburtalo_1792524937960.jpg',
       '/src/assets/images/hero_apartment_1792524936695.jpg',
@@ -201,7 +201,7 @@ export const INITIAL_APARTMENTS: Apartment[] = [
     bedrooms: 2,
     bathrooms: 1,
     area: 82,
-    image: '/src/assets/images/apartment_vake_1792524938166.jpg',
+    image: '/apartment_vake_1792524938166.jpg',
     gallery: [
       '/src/assets/images/apartment_vake_1792524938166.jpg',
       '/src/assets/images/hero_apartment_1792524936695.jpg',
@@ -232,7 +232,7 @@ export const INITIAL_APARTMENTS: Apartment[] = [
     bedrooms: 2,
     bathrooms: 1,
     area: 68,
-    image: '/src/assets/images/hero_apartment_1792524936695.jpg',
+    image: '/hero_apartment_1792524936695.jpg',
     gallery: [
       '/src/assets/images/hero_apartment_1792524936695.jpg',
       '/src/assets/images/apartment_saburtalo_1792524937960.jpg',
@@ -263,7 +263,7 @@ export const INITIAL_APARTMENTS: Apartment[] = [
     bedrooms: 2,
     bathrooms: 1,
     area: 70,
-    image: '/src/assets/images/apartment_vake_1792524938166.jpg',
+    image: '/apartment_vake_1792524938166.jpg',
     gallery: [
       '/src/assets/images/apartment_vake_1792524938166.jpg',
       '/src/assets/images/hero_apartment_1792524936695.jpg',
@@ -293,7 +293,7 @@ export const INITIAL_APARTMENTS: Apartment[] = [
     bedrooms: 2,
     bathrooms: 1,
     area: 65,
-    image: '/src/assets/images/apartment_saburtalo_1792524937960.jpg',
+    image: '/apartment_saburtalo_1792524937960.jpg',
     gallery: [
       '/src/assets/images/apartment_saburtalo_1792524937960.jpg',
       '/src/assets/images/apartment_vake_1792524938166.jpg',
@@ -323,7 +323,7 @@ export const INITIAL_APARTMENTS: Apartment[] = [
     bedrooms: 2,
     bathrooms: 1,
     area: 72,
-    image: '/src/assets/images/hero_apartment_1792524936695.jpg',
+    image: 'hero_apartment_1792524936695.jpg',
     gallery: [
       '/src/assets/images/hero_apartment_1792524936695.jpg',
       '/src/assets/images/apartment_saburtalo_1792524937960.jpg',
